@@ -1,2 +1,12 @@
-com\mycompany\proyecto\JakartaRestConfiguration.class
+Modelo\Poliza.class
+Modelo\ClienteDAO.class
+Modelo\MarcaModelo.class
+Conexion\Conexion.class
 com\mycompany\proyecto\resources\JakartaEE10Resource.class
+Modelo\Cliente.class
+Modelo\AdminDAO.class
+Modelo\PolizaDAO.class
+Modelo\Cobertura.class
+com\mycompany\proyecto\JakartaRestConfiguration.class
+Modelo\Admin.class
+Modelo\MarcaModeloDAO.class
